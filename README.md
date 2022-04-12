@@ -5,8 +5,8 @@
 
 - 🐍 Python enthusiast, it makes you life easier 🤣
 - 🔭 Always lookin for new ways to improve 🚀 
-- 🌱 I’m currently learning everything 
-- 🔥 If there is a VSCode nurd, it's me for sure 🤓
+- 🌱 I’m consistently learning new tricks
+- 🔥 If there is a VSCode nerd, it's me for sure 🤓
 - 🥅 Goals: become better at what I do
 - ⚡ Fun fact: If we play a game of pool, I will always win 🏆
 ### Connect with me:
@@ -37,12 +37,14 @@
 <br/>
 
 ### Data Analysis & Visualization
+
 <img align="left" width="32px" src="png/tableau.png" style="padding-right:10px;" />
 <img align="left" width="32px" src="png/powerbi.png" style="padding-right:10px;" />
 <img align="left" width="32px" src="png/r.png" style="padding-right:10px;" />
 <br/>
 
 ### Databases & Servers
+
 <img align="left" width="32px" src="png/sql.png" style="padding-right:10px;" />
 <img align="left" width="32px" src="png/mysql.png" style="padding-right:10px;" />
 <img align="left" width="32px" src="png/mongodb.png" style="padding-right:10px;" />
