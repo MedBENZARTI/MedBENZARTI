@@ -17,12 +17,12 @@
 
 ## Languages and Tools:
 ### Programming
-<img   width="32px" src="png/vscode.png" style="padding-right:10px;" />
-<img  width="32px" src="png/python.png" style="padding-right:10px;" />
-<img  width="32px" src="png/c.png" style="padding-right:10px;" />
-<img  width="32px" src="png/csharp.png" style="padding-right:10px;" />
-<img  width="32px" src="png/java.png" style="padding-right:10px;" />
-<img  width="32px" src="png/javascript.png" style="padding-right:10px;" />
+<img align="left" width="32px" src="png/vscode.png" style="padding-right:10px;" />
+<img align="left" width="32px" src="png/python.png" style="padding-right:10px;" />
+<img align="left" width="32px" src="png/c.png" style="padding-right:10px;" />
+<img align="left" width="32px" src="png/csharp.png" style="padding-right:10px;" />
+<img align="left" width="32px" src="png/java.png" style="padding-right:10px;" />
+<img align="left" width="32px" src="png/javascript.png" style="padding-right:10px;" />
 <br/>
 
 ### Data Science
