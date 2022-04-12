@@ -3,7 +3,7 @@
 
 ## I'm a Data Scientist, Mathematician, Developer, and Teacher!!
 
-- 🐍 Python enthusiast, it makes you life easier 🤣
+- 🐍 Python enthusiast, it makes your life easier 🤣
 - 🔭 Always lookin for new ways to improve 🚀 
 - 🌱 I’m consistently learning new tricks
 - 🔥 If there is a VSCode nerd, it's me for sure 🤓
