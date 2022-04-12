@@ -34,6 +34,7 @@
 <img align="left" width="32px" src="png/tensorflow.png" style="padding-right:10px;" />
 <img align="left" width="32px" src="png/hadoop.png" style="padding-right:10px;" />
 <img align="left" width="32px" src="png/spark.png" style="padding-right:10px;" />
+<br/>
 
 ### Data Analysis & Visualization
 <img align="left" width="32px" src="png/tableau.png" style="padding-right:10px;" />
@@ -46,12 +47,14 @@
 <img align="left" width="32px" src="png/mongodb.png" style="padding-right:10px;" />
 <img align="left" width="32px" src="png/elastic.png" style="padding-right:10px;" />
 <img align="left" width="32px" src="png/neo4j.png" style="padding-right:10px;" />
+<br/>
 
 ### Web development
 <img align="left" width="32px" src="png/angular.png" style="padding-right:10px;" />
 <img align="left" width="32px" src="png/react.png" style="padding-right:10px;" />
 <img align="left" width="32px" src="png/django.png" style="padding-right:10px;" />
 <img align="left" width="32px" src="png/spring.png" style="padding-right:10px;" />
+<br/>
 
 ### Cloud & DevOps
 <img align="left" width="32px" src="png/aws.png" style="padding-right:10px;" />
@@ -59,6 +62,7 @@
 <img align="left" width="32px" src="png/linux.png" style="padding-right:10px;" />
 <img align="left" width="32px" src="png/git.png" style="padding-right:10px;" />
 <img align="left" width="32px" src="png/github.png" style="padding-right:10px;" />
+
 
 <br />
 <br />
