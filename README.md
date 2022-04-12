@@ -40,6 +40,7 @@
 <img align="left" width="32px" src="png/tableau.png" style="padding-right:10px;" />
 <img align="left" width="32px" src="png/powerbi.png" style="padding-right:10px;" />
 <img align="left" width="32px" src="png/r.png" style="padding-right:10px;" />
+<br/>
 
 ### Databases & Servers
 <img align="left" width="32px" src="png/sql.png" style="padding-right:10px;" />
