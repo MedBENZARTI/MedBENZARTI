@@ -27,38 +27,38 @@
 
 ### Data Science
 
-<img width="32px" src="png/opencv.png" style="padding-right:10px;" />
-<img width="32px" src="png/ml.png" style="padding-right:10px;" />
-<img width="32px" src="png/dl.png" style="padding-right:10px;" />
-<img width="32px" src="png/jupyter.png" style="padding-right:10px;" />
-<img width="32px" src="png/tensorflow.png" style="padding-right:10px;" />
-<img width="32px" src="png/hadoop.png" style="padding-right:10px;" />
-<img width="32px" src="png/spark.png" style="padding-right:10px;" />
+<img align="center" width="32px" src="png/opencv.png" style="padding-right:10px;" />
+<img align="center" width="32px" src="png/ml.png" style="padding-right:10px;" />
+<img align="center" width="32px" src="png/dl.png" style="padding-right:10px;" />
+<img align="center" width="32px" src="png/jupyter.png" style="padding-right:10px;" />
+<img align="center" width="32px" src="png/tensorflow.png" style="padding-right:10px;" />
+<img align="center" width="32px" src="png/hadoop.png" style="padding-right:10px;" />
+<img align="center" width="32px" src="png/spark.png" style="padding-right:10px;" />
 
 ### Data Analysis & Visualization
-<img width="32px" src="png/tableau.png" style="padding-right:10px;" />
-<img width="32px" src="png/powerbi.png" style="padding-right:10px;" />
-<img width="32px" src="png/r.png" style="padding-right:10px;" />
+<img align="center" width="32px" src="png/tableau.png" style="padding-right:10px;" />
+<img align="center" width="32px" src="png/powerbi.png" style="padding-right:10px;" />
+<img align="center" width="32px" src="png/r.png" style="padding-right:10px;" />
 
 ### Databases & Servers
-<img width="32px" src="png/sql.png" style="padding-right:10px;" />
-<img width="32px" src="png/mysql.png" style="padding-right:10px;" />
-<img width="32px" src="png/mongodb.png" style="padding-right:10px;" />
-<img width="32px" src="png/elastic.png" style="padding-right:10px;" />
-<img width="32px" src="png/neo4j.png" style="padding-right:10px;" />
+<img align="center" width="32px" src="png/sql.png" style="padding-right:10px;" />
+<img align="center" width="32px" src="png/mysql.png" style="padding-right:10px;" />
+<img align="center" width="32px" src="png/mongodb.png" style="padding-right:10px;" />
+<img align="center" width="32px" src="png/elastic.png" style="padding-right:10px;" />
+<img align="center" width="32px" src="png/neo4j.png" style="padding-right:10px;" />
 
 ### Web development
-<img width="32px" src="png/angular.png" style="padding-right:10px;" />
-<img width="32px" src="png/react.png" style="padding-right:10px;" />
-<img width="32px" src="png/django.png" style="padding-right:10px;" />
-<img width="32px" src="png/spring.png" style="padding-right:10px;" />
+<img align="center" width="32px" src="png/angular.png" style="padding-right:10px;" />
+<img align="center" width="32px" src="png/react.png" style="padding-right:10px;" />
+<img align="center" width="32px" src="png/django.png" style="padding-right:10px;" />
+<img align="center" width="32px" src="png/spring.png" style="padding-right:10px;" />
 
 ### Cloud & DevOps
-<img width="32px" src="png/aws.png" style="padding-right:10px;" />
-<img width="32px" src="png/docker.png" style="padding-right:10px;" />
-<img width="32px" src="png/linux.png" style="padding-right:10px;" />
-<img width="32px" src="png/git.png" style="padding-right:10px;" />
-<img width="32px" src="png/github.png" style="padding-right:10px;" />
+<img align="center" width="32px" src="png/aws.png" style="padding-right:10px;" />
+<img align="center" width="32px" src="png/docker.png" style="padding-right:10px;" />
+<img align="center" width="32px" src="png/linux.png" style="padding-right:10px;" />
+<img align="center" width="32px" src="png/git.png" style="padding-right:10px;" />
+<img align="center" width="32px" src="png/github.png" style="padding-right:10px;" />
 
 <br />
 <br />
