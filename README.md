@@ -77,6 +77,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [How to setup and use Linux on windows](https://www.linkedin.com/pulse/windows-linux-both-mohamed-benzarti)
 - [Advantages of using AWS CloudFormation](https://www.linkedin.com/pulse/topic-aws-cloudformation-mohamed-benzarti)
+- [Erosion and Dilation, a good technique for detecting elements in your image](https://www.linkedin.com/pulse/erosion-dilation-good-technique-detecting-elements-your-benzarti)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://www.linkedin.com/in/mohamedbenzarti/)
